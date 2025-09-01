@@ -100,6 +100,6 @@ MIT License — free to use for learning, interviewing, or internal projects.
 ---
 
 ### 👨‍💻 Author
-Maintained by **[Your Name]**  
+Maintained by **Gunpreet Ahuja**  
 Feel free to fork and adapt for your own projects.
 
